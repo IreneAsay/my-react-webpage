@@ -1,9 +1,13 @@
-import React, { Component } from "react";
+import React from "react";
 
-class Footer extends Component {
-  render() {
-    return <div></div>;
-  }
-}
+const Footer = () => {
+  return (
+    <div className="row">
+      <p className="col-lg-12 col-md-12 col-xs-12" id="footer-fonts">
+        © Irene Asay. All Rights Reserved.
+      </p>
+    </div>
+  );
+};
 
 export default Footer;
