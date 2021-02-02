@@ -7,13 +7,14 @@ const Portfolio = () => {
         <div className="col-lg-12 col-md-12 col-xs-12">
           <h1>Portfolio</h1>
           <div className="row">
-            <div className="col-lg-6 col-md-12 col-xs-12 mt-3">
+            <div className="col-lg-6 col-md-12 col-xs-12 mt-3 ">
               <a
                 href="https://github.com/rgl10d/conference-room-booker"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
-                  src="/public/images/the-reserve-screenshot.png"
+                  src=" /images/the-reserve-screenshot.png"
                   width="320"
                   height="200"
                   alt="the-reserve-screenshot"
@@ -25,9 +26,10 @@ const Portfolio = () => {
               <a
                 href="https://github.com/IreneAsay/workout-tracker"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
-                  src="/public/images/workout-tracker_screenshot.png"
+                  src=" /images/workout-tracker_screenshot.png"
                   width="320"
                   height="200"
                   alt="workout-tracker_screenshot"
@@ -36,9 +38,13 @@ const Portfolio = () => {
               </a>
             </div>
             <div className="col-lg-6 col-md-12 col-xs-12 mt-3">
-              <a href="https://github.com/IreneAsay/burger" target="_blank">
+              <a
+                href="https://github.com/IreneAsay/burger"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img
-                  src="/public/images/BurgerScreenshot.png"
+                  src=" /images/BurgerScreenshot.png"
                   width="320"
                   height="200"
                   alt="burger-app_screenshot"
@@ -47,9 +53,13 @@ const Portfolio = () => {
               </a>
             </div>
             <div className="col-lg-6 col-md-12 col-xs-12 mt-3">
-              <a href="https://github.com/IreneAsay/project-1" target="_blank">
+              <a
+                href="https://github.com/IreneAsay/project-1"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img
-                  src="/public/images/NTT_screenshot.png"
+                  src=" /images/NTT_screenshot.png"
                   width="320"
                   height="200"
                   alt="NetTimeTraveler_screenshot"
@@ -59,11 +69,12 @@ const Portfolio = () => {
             </div>
             <div className="col-lg-6 col-md-12 col-xs-12 mt-3">
               <a
-                href="hhttps://github.com/IreneAsay/daily-planner"
+                href="https://github.com/IreneAsay/daily-planner"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
-                  src="/public/images/daily_planner_screenshot.png"
+                  src=" /images/daily_planner_screenshot.png"
                   width="320"
                   height="200"
                   alt="daily-planner_screenshot"
@@ -75,9 +86,10 @@ const Portfolio = () => {
               <a
                 href="https://github.com/IreneAsay/password-generator"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
-                  src="/public/images/password_generator_screenshot.png"
+                  src=" /images/password_generator_screenshot.png"
                   width="320"
                   height="200"
                   alt="password-generator_screenshot"
@@ -89,9 +101,10 @@ const Portfolio = () => {
               <a
                 href="https://github.com/IreneAsay/note-taker-app"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
-                  src="/public/images/note-taker_screenshot.png"
+                  src=" /images/note-taker_screenshot.png"
                   width="320"
                   height="200"
                   alt="note-taker_screenshot"
@@ -103,9 +116,10 @@ const Portfolio = () => {
               <a
                 href="https://github.com/IreneAsay/weather-dashboard-server-side-api"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
-                  src="/public/images/Weather_screenshot.png"
+                  src=" /images/Weather_screenshot.png"
                   width="320"
                   height="200"
                   alt="weather-api_screenshot"
