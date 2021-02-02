@@ -10,17 +10,16 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundImage: "url(/images/website_background.jpeg)" }}>
       <Router>
+        <Header />
         <Switch>
-          <Header />
-          {/* <Project /> */}
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/" component={About} />
-          <Footer />
         </Switch>
+        <Footer />
       </Router>
     </div>
   );

@@ -7,10 +7,11 @@ const About = () => {
         <div className="col-lg-12 col-md-12 col-xs-12">
           <h1>About Me</h1>
           <div className="row">
-            <div className="col-lg-12 col-md-12 col-xs-12">
+            <div className="col-lg-12 col-md-12 col-xs-12 p-3 mb-2 bg-secondary text-white">
               <img
-                src="assets/images/My-profile-photo2.png"
+                src="/images/My-profile-photo2.png"
                 alt="IreneAsay_img"
+                className="img-fluid img-thumbnail w-25 rounded float-left m-3"
               />
               <p>
                 I believe there is always room for improvement in each project
@@ -50,26 +51,22 @@ const About = () => {
                   people who do the same.{" "}
                 </p>
               </div>
-              <ul className="list-group list-group-flush">
-                <li className="list-group-item px-0">
-                  <h2>Hobbies</h2>
-                  <p>
-                    Dancing (hip hop, zumba, traditional Chinese dance), singing
-                    karaoke, swimming, biking, playing badminton, and cuddling
-                    with my kids.{" "}
-                  </p>
-                </li>
-                <li className="list-group-item px-0">
-                  <h2>Fun Facts</h2>
-                  <p>
-                    {" "}
-                    I am blessed with two beautiful kids who are both bilingual
-                    in English and Chinese. Most of my family are in Taiwan and
-                    most of my husband's family are in California, so we love
-                    Taiwanese cuisine as much as Mexican food.
-                  </p>
-                </li>
-              </ul>
+              <div className="list-group list-group-flush ">
+                <h2>Hobbies</h2>
+                <p>
+                  Dancing (hip hop, zumba, traditional Chinese dance), singing
+                  karaoke, swimming, biking, playing badminton, and cuddling
+                  with my kids.{" "}
+                </p>
+                <h2>Fun Facts</h2>
+                <p>
+                  {" "}
+                  I am blessed with two beautiful kids who are both bilingual in
+                  English and Chinese. Most of my family are in Taiwan and most
+                  of my husband's family are in California, so we love Taiwanese
+                  cuisine as much as Mexican food.
+                </p>
+              </div>
             </div>
           </div>
         </div>
