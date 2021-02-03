@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App" style={{ backgroundImage: "url(/images/website_background.jpeg)" }}>
+    <div className="App" style={{ backgroundImage: "url(./images/website_background.jpeg)" }}>
       <Router>
         <Header />
         <Switch>
