@@ -14,9 +14,9 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route path="/my-react-webpage/about" component={About} />
-          <Route path="/my-react-webpage/contact" component={Contact} />
-          <Route path="/my-react-webpage/portfolio" component={Portfolio} />
+          <Route path="/about" component={About} />
+          <Route path="/contact" component={Contact} />
+          <Route path="/portfolio" component={Portfolio} />
           <Route path="/" component={About} />
         </Switch>
         <Footer />
