@@ -8,7 +8,7 @@ const Contact = () => {
       </div>
       <div className="card p-3 mb-2 bg-secondary text-white">
         <img
-          src="./images/Dance.gif"
+          src="/public/images/Dance.gif"
           className="card-img-top"
           alt="dancing kids"
         />
