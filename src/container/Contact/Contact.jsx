@@ -8,9 +8,9 @@ const Contact = () => {
       </div>
       <div className="card p-3 mb-2 bg-secondary text-white">
         <img
-          src="/public/images/Dance.gif"
+          src="./images/Dance.gif"
           className="card-img-top"
-          alt="dancing kids"
+          alt="dancing-kids"
         />
         <div className="card-body">
           <h5 className="card-title">Want to know more?</h5>
