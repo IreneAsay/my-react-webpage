@@ -14,7 +14,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/the-reserve-screenshot.png"
+                  src=" ./images/the-reserve-screenshot.png"
                   width="320"
                   height="200"
                   alt="the-reserve-screenshot"
@@ -29,7 +29,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/workout-tracker_screenshot.png"
+                  src=" ./images/workout-tracker_screenshot.png"
                   width="320"
                   height="200"
                   alt="workout-tracker_screenshot"
@@ -44,7 +44,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/BurgerScreenshot.png"
+                  src=" ./images/BurgerScreenshot.png"
                   width="320"
                   height="200"
                   alt="burger-app_screenshot"
@@ -59,7 +59,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/NTT_screenshot.png"
+                  src=" ./images/NTT_screenshot.png"
                   width="320"
                   height="200"
                   alt="NetTimeTraveler_screenshot"
@@ -74,7 +74,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/daily_planner_screenshot.png"
+                  src=" ./images/daily_planner_screenshot.png"
                   width="320"
                   height="200"
                   alt="daily-planner_screenshot"
@@ -89,7 +89,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/password_generator_screenshot.png"
+                  src=" ./images/password_generator_screenshot.png"
                   width="320"
                   height="200"
                   alt="password-generator_screenshot"
@@ -104,7 +104,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/note-taker_screenshot.png"
+                  src=" ./images/note-taker_screenshot.png"
                   width="320"
                   height="200"
                   alt="note-taker_screenshot"
@@ -119,7 +119,7 @@ const Portfolio = () => {
                 rel="noreferrer"
               >
                 <img
-                  src=" /images/Weather_screenshot.png"
+                  src=" ./images/Weather_screenshot.png"
                   width="320"
                   height="200"
                   alt="weather-api_screenshot"

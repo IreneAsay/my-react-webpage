@@ -1,4 +1,5 @@
 import React from "react";
+// import profilePhoto from "./images/My-profile-photo2.png";
 
 const About = () => {
   return (
@@ -9,8 +10,8 @@ const About = () => {
           <div className="row">
             <div className="col-lg-12 col-md-12 col-xs-12 p-3 mb-2 bg-secondary text-white">
               <img
-                src="/images/My-profile-photo2.png"
-                alt="IreneAsay_img"
+                src="./images/My-profile-photo2.png"
+                alt="My-profile"
                 className="img-fluid img-thumbnail w-25 rounded float-left m-3"
               />
               <p>
