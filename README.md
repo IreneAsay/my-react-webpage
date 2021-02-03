@@ -6,7 +6,7 @@ Demo (https://ireneasay.github.io/my-react-webpage/)
 
 This is my personal webpage where people can learn about my professional background and some fun facts about me. This website was built with React.js and styled by Bootstrap. You may also check out my work samples under the [Portfolio](https://ireneasay.github.io/my-webpage/portfolio.html) page or connect with me via the [Contact](https://ireneasay.github.io/my-webpage/contact.html) page.
 
-![Landing](my-react-webpage_screenshot.png)
+![Landing](/public/images/my-react-webpage_screenshot.png)
 
 ## License
 
