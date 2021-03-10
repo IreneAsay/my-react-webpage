@@ -35,13 +35,13 @@ const About = () => {
                 certified Project Management Professional (PMP®), Certified
                 ScrumMaster (CSM®) and Certified Product Owner (CSPO®).
                 Furthermore, I completed a Full Stack Coding Bootcamp at the
-                Georgia Institute of Technology and acquire many technical
-                skills, such as MySQL, MERN Stack, React.js, Node, Heroku,
-                MongoDB, Express, Handlebars, Git, JavaScript, jQuery; etc. My
-                educational background, experience, and certifications equip me
-                with effective communication skills, project management
-                techniques, and technical mindset for a variety of product
-                development environments.
+                Georgia Institute of Technology in February 2021 and acquired
+                many technical skills, such as MySQL, MERN Stack, React.js,
+                Node, Heroku, MongoDB, Express, Handlebars, Git, JavaScript,
+                jQuery; etc. My educational background, experience, and
+                certifications equip me with effective communication skills,
+                project management techniques, and technical mindset for a
+                variety of product development environments.
               </p>
 
               <div id="overflow-text">
