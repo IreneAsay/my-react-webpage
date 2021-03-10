@@ -34,12 +34,14 @@ const About = () => {
                 the University of Southern California and I am a national
                 certified Project Management Professional (PMP®), Certified
                 ScrumMaster (CSM®) and Certified Product Owner (CSPO®).
-                Furthermore, I am currently enrolled in the Georgia Institute of
-                Technology Full Stack Coding Bootcamp to enhance my technical
-                skills. My educational background, experience, and
-                certifications equip me with effective communication skills,
-                project management techniques, and technical mindset for a
-                variety of product development environments.
+                Furthermore, I completed a Full Stack Coding Bootcamp at the
+                Georgia Institute of Technology and acquire many technical
+                skills, such as MySQL, MERN Stack, React.js, Node, Heroku,
+                MongoDB, Express, Handlebars, Git, JavaScript, jQuery; etc. My
+                educational background, experience, and certifications equip me
+                with effective communication skills, project management
+                techniques, and technical mindset for a variety of product
+                development environments.
               </p>
 
               <div id="overflow-text">

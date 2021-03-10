@@ -23,7 +23,7 @@ const Contact = () => {
         <ul className="list-group list-group-flush"></ul>
         <div className="card-body ">
           <a
-            href="https://drive.google.com/file/d/1U2O6dk_whdfESuuPJ5LP-fwMuWAYE7eI/preview"
+            href="https://drive.google.com/file/d/15tA_n6elVQCCrHNa7n1xnDjKcWRYUTar/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="card-link p-2 mb-2 bg-secondary text-white"
